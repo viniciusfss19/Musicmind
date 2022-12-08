@@ -1,0 +1,18 @@
+.Section__1__titulo{
+font-family: 'PT Sans Caption';
+font-style: normal;
+line-height: 47px;
+align-items: center;
+color: #FFFFFF;
+font-size: 60px;
+transition: 0.4s;
+}
+
+.Section__1__titulo:hover{
+    font-family: 'PT Sans Caption';
+    font-style: normal;
+    line-height: 47px;
+    align-items: center;
+    color: #FFFFFF;
+    font-size: 63px;
+    }

@@ -1,0 +1,9 @@
+.section__4__container{
+    background: #000;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 3rem;
+    
+
+}

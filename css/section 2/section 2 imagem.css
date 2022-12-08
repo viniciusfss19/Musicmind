@@ -1,0 +1,8 @@
+.section__2__imagem{
+    width: 50%;
+    transition: 0.4s;
+}
+
+.section__2__imagem:hover{
+    width: 56%;
+}
