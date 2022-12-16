@@ -1,0 +1,12 @@
+.rodapePrincipal-navMap-link{
+    color: white;
+    font-size: 16px;
+    padding-top: 0.6rem;
+    transition: 0.4s;
+}
+.rodapePrincipal-navMap-link:hover{
+    font-size: 18px;
+}
+.rodapePrincipal-navMap-link:active{
+    font-size: 16px;
+}
